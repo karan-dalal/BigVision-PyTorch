@@ -1,0 +1,15 @@
+torch
+numpy
+tqdm
+tensorboard
+ml-collections
+scipy
+torchvision
+einops
+wandb
+timm
+tensorflow
+tensorflow-datasets
+tensorflow_addons
+
+# Need to install APEX as well.
